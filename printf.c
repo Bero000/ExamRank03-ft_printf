@@ -49,10 +49,11 @@ int ft_printf(const char *format, ...)
     }
     return (va_end(ptr), len);
 }
-
+*/
 int main ()
 {
     char *s = "abcasda";
     int a = 12415125;
     ft_printf("beinm ardmı = %s, beinm yaşsim = %d\n", s, a);
 }
+*/
