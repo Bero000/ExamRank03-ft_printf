@@ -49,7 +49,7 @@ int ft_printf(const char *format, ...)
     }
     return (va_end(ptr), len);
 }
-*/
+/*
 int main ()
 {
     char *s = "abcasda";
